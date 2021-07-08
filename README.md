@@ -1,2 +1,2 @@
-# redux-img-search
+# basic-todo-react
 Created with CodeSandbox
